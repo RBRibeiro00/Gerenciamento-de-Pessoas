@@ -1,4 +1,4 @@
-<h2>Digital Innovation: Projeto intermediário  - Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot</h2>
+<h2>Projeto intermediário ensinado pela Digital Innovation One  - Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot</h2>
 
 Desenvolvimento de um pequeno sistema para o gerenciamento de pessoas de uma empresa através de uma API REST, criada com o Spring Boot.
 
@@ -24,7 +24,7 @@ http://localhost:8080/api/v1/people
 ```
 
 
-São necessários os seguintes pré-requisitos para a execução do projeto desenvolvido durante a aula:
+Foram realizados os seguintes pré-requisitos para o desenvolvimento:
 
 * Java 11 ou versões superiores.
 * Maven 3.6.3 ou versões superiores.
@@ -34,7 +34,7 @@ São necessários os seguintes pré-requisitos para a execução do projeto dese
 * Conta no Heroku para o deploy do projeto na nuvem
 * Muita vontade de aprender e compartilhar conhecimento :)
 
-Abaixo, seguem links bem bacanas, sobre tópicos mencionados durante a aula:
+Links utilizados para realização do projeto:
 
 * [SDKMan! para gerenciamento e instalação do Java e Maven](https://sdkman.io/)
 * [Referência do Intellij IDEA Community, para download](https://www.jetbrains.com/idea/download)
@@ -47,5 +47,3 @@ Abaixo, seguem links bem bacanas, sobre tópicos mencionados durante a aula:
 * [Documentação oficial do Lombok](https://projectlombok.org/)
 * [Documentação oficial do Map Struct](https://mapstruct.org/)
 * [Referência para o padrão arquitetural REST](https://restfulapi.net/)
-
-[Neste link](https://drive.google.com/file/d/1crVPOVl6ok2HeYjh3fjQuGQn2lDZVHrn/view?usp=sharing), seguem os slides apresentados como o roteiro utilizado para o desenvolvimento do projeto da nossa sessão.
