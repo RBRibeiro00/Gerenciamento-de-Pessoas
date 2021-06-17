@@ -2,7 +2,7 @@
 
 Desenvolvimento de um pequeno sistema para o gerenciamento de pessoas de uma empresa através de uma API REST, criada com o Spring Boot.
 
-Serão desenvolvidos e abordados os seguintes tópicos:
+Foram desenvolvidos e abordados os seguintes tópicos:
 
 * Setup inicial de projeto com o Spring Boot Initialzr
 * Criação de modelo de dados para o mapeamento de entidades em bancos de dados
@@ -11,13 +11,13 @@ Serão desenvolvidos e abordados os seguintes tópicos:
 * Desenvolvimento de testes unitários para validação das funcionalidades
 * Implantação do sistema na nuvem através do Heroku
 
-Para executar o projeto no terminal, digite o seguinte comando:
+Para executar o projeto no terminal, foi digitado o seguinte comando:
 
 ```shell script
 mvn spring-boot:run 
 ```
 
-Após executar o comando acima, basta apenas abrir o seguinte endereço e visualizar a execução do projeto:
+Após executar o comando acima, foi aberto o seguinte endereço e visualizar a execução do projeto:
 
 ```
 http://localhost:8080/api/v1/people
@@ -28,11 +28,10 @@ Foram realizados os seguintes pré-requisitos para o desenvolvimento:
 
 * Java 11 ou versões superiores.
 * Maven 3.6.3 ou versões superiores.
-* Intellj IDEA Community Edition ou sua IDE favorita.
-* Controle de versão GIT instalado na sua máquina.
-* Conta no GitHub para o armazenamento do seu projeto na nuvem.
-* Conta no Heroku para o deploy do projeto na nuvem
-* Muita vontade de aprender e compartilhar conhecimento :)
+* Intellj IDEA Community Edition.
+* Controle de versão GIT.
+* Conta no GitHub para o armazenamento do projeto na nuvem.
+* Conta no Heroku para o deploy do projeto na nuvem.
 
 Links utilizados para realização do projeto:
 
